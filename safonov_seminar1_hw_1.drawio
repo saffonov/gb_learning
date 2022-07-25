@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T12:09:41.928Z" agent="5.0 (Windows)" etag="zUmUSNOoXzvdXmM_3ouQ" version="20.2.0" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc5swEP41TJ/a4Uiw81icOGnrZtImbaaPMsigWrBUCB/99VkZYcC4Pto6hyd+sXZZr6T9vj2M4fTi2aUgafQZAsoN2wxmhnNu2LZlmTZ+Kc280Linp4UiFCzQRpXilv2mWmlqbc4CmjUMJQCXLG0qfUgS6suGjggB06bZCHhz15SEtKW49Qlva+9ZIKNC27U7lf6KsjAqd7bcs+JJTEpjfZMsIgFMayrnwnB6AkAWq3jWo1wFr4zL/Yf5PR+M3cuPX7Jf5Jv36e76+9vCWX+fnyyvIGgi/69rDe6E8FzHS99VzssACsiTgConpuF4kYw5Li1c/qRSzjXgJJeAKhAyghASwgcAqbYbQSK1maVkmgTvFbAoDzn440LVZ5zrPVDS9l2UMilgvMROOVgCoYw5GVLuEX8cLg7aAw4CHyWQUOUqQDLou1SHu6i03o6x1RhkkAufbrBzNMWJCOkmf25hp85X46lG7pJCTKWYo4GgnEg2aZKZ6JwIl3YV7rjQ0O9BA6dFgwGJU5X1QLPkjcTVFMR4AzcULtOISXqbkkWAplhOmnyp8wCv6oWcZJlGcQvI+4E0oULS2cawlk9dndu6uHW1OK0qhVWmf1SrEifmgYA4aQHxA4vna0r+S0q6O6Zk2bG25qQmS0mMnVNUe7oBlsiaCYxGGR5slTrLDf+eTactNl1Di0zb8XjRdHsiMnX245L17Lnk/qFFuBzD4A0FrkK1SnkehkgWdJcYTr9duyKIh3m2vV00MFYM6pOYcRWvK8onVDKfrGkqhLMQ9z33EW4q1pMHt2RJiJJbSXcLsmL9PWCz6TSbzVKudxtzTbfpHqrbdFqY3iB6BXS2yRf4HlnHd+wVEM6euuV3dynSL7oEP3rHL6vp9pZv7VimNXvMdw5+GgR6/lPA2U4z5esYcBiG2cc2CJQnrPHJy/mwPQkMc5EsBgHI5esksGkSsNc1oUedBMpCWAP1K00JQzDNwTHOAav//E+cp54DykrRhICrmNpmkWFHhsHqLOZYh8MAxepNbVEKq/fdzsUD</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-25T12:30:43.831Z" agent="5.0 (Windows)" etag="43L3_QvYCpAF6JZJYYpp" version="20.2.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="914" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-0" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-2" value="&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 120px; top: 143.288px; font-size: 18.3333px; font-family: sans-serif; transform: scaleX(0.999206);&quot;&gt;Задача 3. Составить блок-схему нахождения среднего арифметического из 4-х чисел&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="10" width="750" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bkmcW2qwPOxSgzUlpzTJ-3" target="bkmcW2qwPOxSgzUlpzTJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-3" value="&lt;div&gt;Input&lt;/div&gt;&lt;div&gt;N1, N2, N3, N4&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#00FF00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.446;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.467;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bkmcW2qwPOxSgzUlpzTJ-0" target="bkmcW2qwPOxSgzUlpzTJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="210" as="sourcePoint" />
+            <mxPoint x="480" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bkmcW2qwPOxSgzUlpzTJ-5" target="bkmcW2qwPOxSgzUlpzTJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-5" value="S = SUM (N1..N4)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00FF00;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bkmcW2qwPOxSgzUlpzTJ-9" target="bkmcW2qwPOxSgzUlpzTJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-9" value="OUT = S/4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00FF00;exitX=0.494;exitY=0.872;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bkmcW2qwPOxSgzUlpzTJ-11" target="bkmcW2qwPOxSgzUlpzTJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-11" value="&lt;div&gt;Output&lt;/div&gt;&lt;div&gt;OUT&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#00FF00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-13" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
