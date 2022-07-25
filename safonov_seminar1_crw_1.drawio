@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" modified="2022-07-25T12:57:43.360Z" agent="5.0 (Windows)" etag="vXELkasFDmxz7O94NgJ2" version="20.2.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1291" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="txWmI85OTP2UU9v07WUH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bkmcW2qwPOxSgzUlpzTJ-0" target="bkmcW2qwPOxSgzUlpzTJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-0" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FF0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-2" value="&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 120px; top: 187.532px; font-size: 18.3333px; font-family: sans-serif; transform: scaleX(0.999178);&quot;&gt;Задача 1. Составьте блок-схему &lt;br&gt;нахождения максимального&lt;br&gt;значения из двух чисел.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="40" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bkmcW2qwPOxSgzUlpzTJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-3" value="&lt;div&gt;Input&lt;/div&gt;&lt;div&gt;N1, N2&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#00FF00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SismPJAR2ZVxrANQJ-HG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SismPJAR2ZVxrANQJ-HG-8" target="SismPJAR2ZVxrANQJ-HG-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-11" value="&lt;div&gt;Output&lt;/div&gt;&lt;div&gt;N1&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#00FF00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-13" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FF0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="600" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SismPJAR2ZVxrANQJ-HG-3" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SismPJAR2ZVxrANQJ-HG-0" target="SismPJAR2ZVxrANQJ-HG-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SismPJAR2ZVxrANQJ-HG-5" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SismPJAR2ZVxrANQJ-HG-0" target="SismPJAR2ZVxrANQJ-HG-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SismPJAR2ZVxrANQJ-HG-0" value="N1 &amp;gt;= N2 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontColor=default;fillColor=#FFFF00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SismPJAR2ZVxrANQJ-HG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;exitX=0.502;exitY=0.866;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SismPJAR2ZVxrANQJ-HG-1" target="SismPJAR2ZVxrANQJ-HG-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SismPJAR2ZVxrANQJ-HG-1" value="&lt;div&gt;Output&lt;/div&gt;&lt;div&gt;N2&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#00FF00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SismPJAR2ZVxrANQJ-HG-2" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#FFFF00;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="420" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SismPJAR2ZVxrANQJ-HG-4" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#FFFF00;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="420" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SismPJAR2ZVxrANQJ-HG-6" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#00FF00;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="585" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SismPJAR2ZVxrANQJ-HG-8" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#00FF00;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="540" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SismPJAR2ZVxrANQJ-HG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="SismPJAR2ZVxrANQJ-HG-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="511" as="sourcePoint" />
+            <mxPoint x="340" y="605" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="511" />
+              <mxPoint x="460" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
