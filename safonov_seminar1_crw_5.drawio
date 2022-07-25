@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" modified="2022-07-25T13:22:47.680Z" agent="5.0 (Windows)" etag="rqbiND60xoBO6bfSUUwl" version="20.2.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="946" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="txWmI85OTP2UU9v07WUH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bkmcW2qwPOxSgzUlpzTJ-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-0" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FF0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-2" value="&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 120px; top: 187.532px; font-size: 18.3333px; font-family: sans-serif; transform: scaleX(0.999178);&quot;&gt;Задача 5. Составьте блок-схему&lt;br&gt;нахождения суммы всех&lt;br&gt;четных чисел от 1 до 15.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="40" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="txWmI85OTP2UU9v07WUH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bkmcW2qwPOxSgzUlpzTJ-5" target="txWmI85OTP2UU9v07WUH-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-5" value="&lt;div&gt;I = 1&lt;/div&gt;&lt;div&gt;N =15&lt;br&gt;&lt;/div&gt;&lt;div&gt;OUT = 0&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00FF00;exitX=0.494;exitY=0.872;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bkmcW2qwPOxSgzUlpzTJ-11" target="bkmcW2qwPOxSgzUlpzTJ-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-11" value="&lt;div&gt;Output&lt;/div&gt;&lt;div&gt;OUT&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#00FF00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bkmcW2qwPOxSgzUlpzTJ-13" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FF0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="450" y="700" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txWmI85OTP2UU9v07WUH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="txWmI85OTP2UU9v07WUH-4" target="txWmI85OTP2UU9v07WUH-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D0YCrDzrNRqAtWeDqDTS-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="txWmI85OTP2UU9v07WUH-4" target="D0YCrDzrNRqAtWeDqDTS-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="txWmI85OTP2UU9v07WUH-4" value="&lt;div&gt;Count&lt;/div&gt;&lt;div&gt;I = 1..N&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#00FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txWmI85OTP2UU9v07WUH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="txWmI85OTP2UU9v07WUH-5" edge="1" target="txWmI85OTP2UU9v07WUH-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="610" />
+              <mxPoint x="200" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="txWmI85OTP2UU9v07WUH-5" value="OUT = OUT + I" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txWmI85OTP2UU9v07WUH-11" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#00FFFF;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="560" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D0YCrDzrNRqAtWeDqDTS-2" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D0YCrDzrNRqAtWeDqDTS-0" target="txWmI85OTP2UU9v07WUH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D0YCrDzrNRqAtWeDqDTS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D0YCrDzrNRqAtWeDqDTS-0" target="D0YCrDzrNRqAtWeDqDTS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D0YCrDzrNRqAtWeDqDTS-5" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D0YCrDzrNRqAtWeDqDTS-4">
+          <mxGeometry x="0.375" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D0YCrDzrNRqAtWeDqDTS-0" value="&lt;pre dir=&quot;ltr&quot; style=&quot;text-align:left&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Перевод&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;&gt;Is this number I even?&lt;/span&gt;&lt;/pre&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontColor=default;fillColor=#FFFF00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="420" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="D0YCrDzrNRqAtWeDqDTS-3" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#FFFF00;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="450" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
