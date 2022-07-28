@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T19:41:59.314Z" agent="5.0 (Windows)" etag="CvWVLyw9psNj_LARc1_z" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T19:44:00.586Z" agent="5.0 (Windows)" etag="svSV6g3ahntKUjq6okCE" version="20.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="706" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -252,7 +252,7 @@
         <mxCell id="_BJFXlvesHHBChjdj6PS-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_BJFXlvesHHBChjdj6PS-76" target="_BJFXlvesHHBChjdj6PS-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_BJFXlvesHHBChjdj6PS-76" value="&lt;div&gt;Count&lt;/div&gt;&lt;div&gt;I = L..H&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=14;fillColor=#00FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_BJFXlvesHHBChjdj6PS-76" value="&lt;div&gt;Count&lt;/div&gt;&lt;div&gt;I = L, H, 1&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=14;fillColor=#00FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="389" y="1720" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_BJFXlvesHHBChjdj6PS-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_BJFXlvesHHBChjdj6PS-76" target="_BJFXlvesHHBChjdj6PS-74" edge="1">
@@ -295,7 +295,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_BJFXlvesHHBChjdj6PS-96" value="SumVecA = SunVecA + VecA[I]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="369" y="1840" width="160" height="40" as="geometry" />
+          <mxGeometry x="353.5" y="1840" width="191" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_BJFXlvesHHBChjdj6PS-100" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#00FFFF;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="369" y="1740" width="40" height="40" as="geometry" />
@@ -335,7 +335,7 @@
         <mxCell id="_BJFXlvesHHBChjdj6PS-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_BJFXlvesHHBChjdj6PS-121" target="_BJFXlvesHHBChjdj6PS-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_BJFXlvesHHBChjdj6PS-121" value="&lt;div&gt;Count&lt;/div&gt;&lt;div&gt;I = 0..N&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=14;fillColor=#00FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_BJFXlvesHHBChjdj6PS-121" value="&lt;div&gt;Count&lt;/div&gt;&lt;div&gt;I = 0, N, 1&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=14;fillColor=#00FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="2080" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_BJFXlvesHHBChjdj6PS-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;endArrow=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -356,7 +356,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_BJFXlvesHHBChjdj6PS-130" value="SumVecA = SunVecA + VecA[I]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="2200" width="160" height="40" as="geometry" />
+          <mxGeometry x="140" y="2200" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_BJFXlvesHHBChjdj6PS-131" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#00FFFF;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="2100" width="40" height="40" as="geometry" />
