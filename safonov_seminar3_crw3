@@ -1,0 +1,13 @@
+// Задача 1. Перенести самое большое значение элемента в правый край массива [2, 5, 13, 7, 6, 4]
+numbers = [2, 5, 13, 7, 6, 4]
+size = 6
+index = 0
+max_idx = 0
+max_numder = number[max_idx]
+while index < size do
+  if numders[index] > max then 
+    max_idx = index
+    max = numbers[index]
+    index = index + 1
+ numbers[max_idx] = numders[size-1]
+ numbers[size-1] = max
