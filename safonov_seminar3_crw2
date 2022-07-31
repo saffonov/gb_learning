@@ -1,10 +1,11 @@
-// Задача 1. Напишите псевдокод по блок-схеме Подсчитать количество положительных чисел в произвольно заданном массиве [-2, 8, 14, -34, -9 , 7, 7, 4]
-numbers = [-2, 8, 14, -34, -9 , 7, 7, 4]
-size = 9
-count = 0
+// Задача 2. Найти среднее арифметическое среди всех элементов массива [2, 5, 13, 7, 6, 4]
+numbers = [2, 5, 13, 7, 6, 4]
+size = 6
+sum = 0
+avg = 0
 index = 0
 while index < size do
-  if numders[index] > 0 then 
-    count = count + 1
-    index = index + 1
- print(count)
+  sum = sum + numders[index]
+  index = index + 1
+avg = sum/size
+ print(avg)
